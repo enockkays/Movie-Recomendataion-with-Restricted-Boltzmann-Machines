@@ -16,3 +16,8 @@ The training of the Restricted Boltzmann Machine differs from the training of a 
 
 ## Performance of the Model
 ![image](https://user-images.githubusercontent.com/32764779/161776301-51d3e209-ee38-4343-b050-d2eb21b25c5b.png)
+
+A good explanation about Boltzmann Machines can be found on the links below.
+1. https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-ii-4b159dce1ffb
+2. https://heartbeat.comet.ml/guide-to-restricted-boltzmann-machines-using-pytorch-ee50d1ed21a8
+3. https://blog.paperspace.com/beginners-guide-to-boltzmann-machines-pytorch/
